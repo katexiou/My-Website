@@ -1,0 +1,56 @@
+body {
+    font-family: 'Noto Serif', serif!important;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+}
+
+.lead {
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+}
+
+#introduction {
+    background-color: rgb(79, 103, 79);
+    color: white;
+    padding-bottom: 100px;
+}
+
+#avatar {
+    border-radius: 61% 39% 67% 33% / 42% 30% 70% 58%;
+}
+
+.shape {
+    padding-top: 80px;
+    padding-left: 100px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.card {
+    border-width: 20px;
+}
+
+.d-flex {
+    color: black;
+}
+
+#skills {
+    background-color: #ECF0F1;
+}
+
+#button {
+    background-image: linear-gradient(to bottom, #E65297, #A63C6D);
+    color: #ECF0F1;
+    border-style: none;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px!important;
+}
